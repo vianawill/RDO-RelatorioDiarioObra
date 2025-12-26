@@ -1,4 +1,4 @@
-# 🏗️ RDO - Relatório Diário de Obra
+# 🏗️ RDO - Registro Diário de Obra
 
 ![Capa do projeto](./RDO_AlfaID_card.png)
 
